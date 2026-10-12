@@ -1,6 +1,6 @@
 # Claude Code Utilities
 
-Reusable slash commands and helper scripts for Claude Code. So far, these fall into three main areas: session management (identifying and tracking sessions via a CSV registry), Jupyter notebook interaction (reading cells and finding inline instructions), and git workflow helpers (conventional commit message generation).
+Reusable slash commands and helper scripts for Claude Code. These cover session management (identifying and tracking sessions via a CSV registry), Jupyter notebook interaction (reading cells and finding inline instructions), conversation transcript search (regex search across JSONL session history with filtering and context), and git workflow helpers (conventional commit message generation).
 
 ## Setup
 
